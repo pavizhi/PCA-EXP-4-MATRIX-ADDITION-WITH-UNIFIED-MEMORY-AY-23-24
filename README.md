@@ -275,7 +275,11 @@ int main(int argc, char **argv)
 }
 ```
 ## OUTPUT:
-![](./1.png)
+### WITH MEMSET
+![image](https://github.com/pavizhi/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/95067176/07bf0350-7001-4b0a-9e05-b83fb93f473f)
+
+### WITHOUT MEMSET
+![image](https://github.com/pavizhi/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/95067176/03ed0f89-5159-43d8-b02c-daf71302dd8c)
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.01296 time.
