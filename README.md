@@ -278,8 +278,16 @@ int main(int argc, char **argv)
 ### WITH MEMSET
 ![image](https://github.com/pavizhi/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/95067176/07bf0350-7001-4b0a-9e05-b83fb93f473f)
 
+#### PROFILE
+![image](https://github.com/pavizhi/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/95067176/2a921603-1503-47b4-acd0-e621bc12e358)
+
+
 ### WITHOUT MEMSET
 ![image](https://github.com/pavizhi/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/95067176/03ed0f89-5159-43d8-b02c-daf71302dd8c)
+
+#### PROFILE
+![image](https://github.com/pavizhi/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/95067176/e8547164-a25f-496d-b7b6-be3a08be85e3)
+
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.01296 time.
